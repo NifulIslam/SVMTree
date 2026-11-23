@@ -1,7 +1,4 @@
-"""Draw every figure from the files in results/ (and the two method diagrams).
 
-    python scripts/make_figures.py
-"""
 import os
 import sys
 
