@@ -1,8 +1,4 @@
-"""Run all experiments and write the result tables to results/.
 
-    python scripts/run_experiments.py            # full run (about 10 minutes on one CPU)
-    python scripts/run_experiments.py --quick    # small test run
-"""
 import argparse
 import os
 import sys
