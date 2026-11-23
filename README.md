@@ -66,8 +66,8 @@ pred = model.predict(X_test)
 
 The datasets belong to the UCI Machine Learning Repository (https://archive.ics.uci.edu). Please check the license on each dataset page and cite the repository: Dua, D. and Graff, C. (2017), UCI Machine Learning Repository.
 
-Add a license for the code before publishing (for example MIT).
+MIT License. 
 
 ## Author
 
-Niful Islam, Oakland University (islam3@oakland.edu)
+Niful Islam
