@@ -1,0 +1,6 @@
+Model,Tune time,Fit time
+Decision Tree,0.2708,0.0037
+SVM (RBF),0.3212,0.0067
+Tree + NB filter,0.7963,0.0126
+SVMTree (no filter),0.2548,0.0075
+SVMTree,1.2516,0.0151

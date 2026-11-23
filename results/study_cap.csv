@@ -1,0 +1,51 @@
+Dataset,Noise,Cap,Accuracy
+Pima Diabetes,0.0,0.0,0.765
+Pima Diabetes,0.0,0.05,0.7572
+Pima Diabetes,0.0,0.1,0.7578
+Pima Diabetes,0.0,0.2,0.7539
+Pima Diabetes,0.0,0.3,0.75
+Pima Diabetes,0.2,0.0,0.7422
+Pima Diabetes,0.2,0.05,0.7396
+Pima Diabetes,0.2,0.1,0.739
+Pima Diabetes,0.2,0.2,0.7402
+Pima Diabetes,0.2,0.3,0.7506
+Breast Cancer,0.0,0.0,0.9368
+Breast Cancer,0.0,0.05,0.9306
+Breast Cancer,0.0,0.1,0.9236
+Breast Cancer,0.0,0.2,0.9236
+Breast Cancer,0.0,0.3,0.9236
+Breast Cancer,0.2,0.0,0.913
+Breast Cancer,0.2,0.05,0.928
+Breast Cancer,0.2,0.1,0.927
+Breast Cancer,0.2,0.2,0.9113
+Breast Cancer,0.2,0.3,0.9095
+Wine,0.0,0.0,0.8987
+Wine,0.0,0.05,0.9155
+Wine,0.0,0.1,0.9155
+Wine,0.0,0.2,0.9155
+Wine,0.0,0.3,0.9155
+Wine,0.2,0.0,0.8876
+Wine,0.2,0.05,0.8849
+Wine,0.2,0.1,0.896
+Wine,0.2,0.2,0.8933
+Wine,0.2,0.3,0.9017
+Glass,0.0,0.0,0.6707
+Glass,0.0,0.05,0.6728
+Glass,0.0,0.1,0.6704
+Glass,0.0,0.2,0.6563
+Glass,0.0,0.3,0.6403
+Glass,0.2,0.0,0.6215
+Glass,0.2,0.05,0.6308
+Glass,0.2,0.1,0.6355
+Glass,0.2,0.2,0.6121
+Glass,0.2,0.3,0.6004
+Iris,0.0,0.0,0.9467
+Iris,0.0,0.05,0.9533
+Iris,0.0,0.1,0.95
+Iris,0.0,0.2,0.95
+Iris,0.0,0.3,0.95
+Iris,0.2,0.0,0.94
+Iris,0.2,0.05,0.9467
+Iris,0.2,0.1,0.95
+Iris,0.2,0.2,0.9533
+Iris,0.2,0.3,0.9533

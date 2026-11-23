@@ -1,0 +1,13 @@
+SVMTree vs,Cells,Mean diff,Wins,Ties,Losses,Wilcoxon p
+Decision Tree,all noise levels,0.0357,19,0,1,0.0
+Decision Tree,0% noise,0.0279,5,0,0,0.0625
+Decision Tree,20-30% noise,0.0432,9,0,1,0.0039
+SVM (RBF),all noise levels,-0.0186,5,0,15,0.0107
+SVM (RBF),0% noise,-0.0099,2,0,3,0.625
+SVM (RBF),20-30% noise,-0.0202,3,0,7,0.084
+Tree + NB filter,all noise levels,0.0226,17,0,3,0.0001
+Tree + NB filter,0% noise,0.0256,5,0,0,0.0625
+Tree + NB filter,20-30% noise,0.0211,7,0,3,0.0371
+SVMTree (no filter),all noise levels,0.0003,8,0,12,0.8519
+SVMTree (no filter),0% noise,-0.0074,1,0,4,0.125
+SVMTree (no filter),20-30% noise,0.0027,4,0,6,0.9219

@@ -1,0 +1,101 @@
+Dataset,Noise,Model,Accuracy,Macro F1,MCC
+Breast Cancer,0.0,Decision Tree,0.0327,0.0357,0.0688
+Breast Cancer,0.0,SVM (RBF),0.0158,0.0169,0.0337
+Breast Cancer,0.0,SVMTree,0.021,0.0241,0.0434
+Breast Cancer,0.0,SVMTree (no filter),0.0215,0.0233,0.0463
+Breast Cancer,0.0,Tree + NB filter,0.0261,0.0293,0.0566
+Breast Cancer,0.1,Decision Tree,0.0278,0.0306,0.0607
+Breast Cancer,0.1,SVM (RBF),0.0216,0.0238,0.0462
+Breast Cancer,0.1,SVMTree,0.0311,0.0342,0.0668
+Breast Cancer,0.1,SVMTree (no filter),0.0281,0.0311,0.061
+Breast Cancer,0.1,Tree + NB filter,0.0262,0.0284,0.0546
+Breast Cancer,0.2,Decision Tree,0.02,0.0229,0.0448
+Breast Cancer,0.2,SVM (RBF),0.0242,0.0268,0.052
+Breast Cancer,0.2,SVMTree,0.0262,0.0297,0.0544
+Breast Cancer,0.2,SVMTree (no filter),0.0198,0.0211,0.0418
+Breast Cancer,0.2,Tree + NB filter,0.0243,0.0279,0.0517
+Breast Cancer,0.3,Decision Tree,0.0692,0.0745,0.1479
+Breast Cancer,0.3,SVM (RBF),0.0148,0.0169,0.0311
+Breast Cancer,0.3,SVMTree,0.0325,0.0317,0.0578
+Breast Cancer,0.3,SVMTree (no filter),0.0307,0.0345,0.0677
+Breast Cancer,0.3,Tree + NB filter,0.0436,0.0424,0.0727
+Glass,0.0,Decision Tree,0.056,0.1121,0.0731
+Glass,0.0,SVM (RBF),0.0584,0.136,0.0855
+Glass,0.0,SVMTree,0.051,0.1116,0.0726
+Glass,0.0,SVMTree (no filter),0.0463,0.092,0.0639
+Glass,0.0,Tree + NB filter,0.0538,0.1102,0.0779
+Glass,0.1,Decision Tree,0.0889,0.0966,0.1151
+Glass,0.1,SVM (RBF),0.0506,0.1025,0.0732
+Glass,0.1,SVMTree,0.0664,0.0998,0.0905
+Glass,0.1,SVMTree (no filter),0.04,0.0855,0.0536
+Glass,0.1,Tree + NB filter,0.0532,0.1064,0.0669
+Glass,0.2,Decision Tree,0.0621,0.0959,0.0837
+Glass,0.2,SVM (RBF),0.0802,0.1241,0.1098
+Glass,0.2,SVMTree,0.0516,0.0866,0.0699
+Glass,0.2,SVMTree (no filter),0.0407,0.0615,0.0556
+Glass,0.2,Tree + NB filter,0.0809,0.1321,0.1026
+Glass,0.3,Decision Tree,0.0632,0.0577,0.092
+Glass,0.3,SVM (RBF),0.0658,0.1037,0.0862
+Glass,0.3,SVMTree,0.0388,0.0831,0.0552
+Glass,0.3,SVMTree (no filter),0.0454,0.0988,0.0572
+Glass,0.3,Tree + NB filter,0.0551,0.0655,0.0726
+Iris,0.0,Decision Tree,0.0274,0.0275,0.0412
+Iris,0.0,SVM (RBF),0.041,0.0414,0.0588
+Iris,0.0,SVMTree,0.0358,0.0359,0.0532
+Iris,0.0,SVMTree (no filter),0.0446,0.0447,0.066
+Iris,0.0,Tree + NB filter,0.0466,0.047,0.0686
+Iris,0.1,Decision Tree,0.0353,0.0352,0.0525
+Iris,0.1,SVM (RBF),0.0391,0.0393,0.0577
+Iris,0.1,SVMTree,0.0281,0.0282,0.0421
+Iris,0.1,SVMTree (no filter),0.0567,0.0572,0.0844
+Iris,0.1,Tree + NB filter,0.0367,0.037,0.0542
+Iris,0.2,Decision Tree,0.0589,0.0592,0.0866
+Iris,0.2,SVM (RBF),0.0549,0.0556,0.0809
+Iris,0.2,SVMTree,0.085,0.0853,0.1278
+Iris,0.2,SVMTree (no filter),0.0895,0.0916,0.1331
+Iris,0.2,Tree + NB filter,0.0444,0.0446,0.0636
+Iris,0.3,Decision Tree,0.0656,0.0672,0.0958
+Iris,0.3,SVM (RBF),0.0378,0.0378,0.0563
+Iris,0.3,SVMTree,0.0584,0.0588,0.086
+Iris,0.3,SVMTree (no filter),0.0544,0.0547,0.0804
+Iris,0.3,Tree + NB filter,0.0457,0.0454,0.0663
+Pima Diabetes,0.0,Decision Tree,0.0425,0.0466,0.0833
+Pima Diabetes,0.0,SVM (RBF),0.0268,0.0305,0.0624
+Pima Diabetes,0.0,SVMTree,0.0281,0.035,0.0682
+Pima Diabetes,0.0,SVMTree (no filter),0.0391,0.0464,0.091
+Pima Diabetes,0.0,Tree + NB filter,0.0385,0.0349,0.0646
+Pima Diabetes,0.1,Decision Tree,0.0516,0.0499,0.1046
+Pima Diabetes,0.1,SVM (RBF),0.032,0.039,0.0802
+Pima Diabetes,0.1,SVMTree,0.0372,0.0311,0.0581
+Pima Diabetes,0.1,SVMTree (no filter),0.046,0.0435,0.0873
+Pima Diabetes,0.1,Tree + NB filter,0.049,0.0539,0.1129
+Pima Diabetes,0.2,Decision Tree,0.0484,0.0436,0.0803
+Pima Diabetes,0.2,SVM (RBF),0.0558,0.0571,0.1256
+Pima Diabetes,0.2,SVMTree,0.0422,0.0404,0.077
+Pima Diabetes,0.2,SVMTree (no filter),0.0414,0.0459,0.0858
+Pima Diabetes,0.2,Tree + NB filter,0.0545,0.0473,0.084
+Pima Diabetes,0.3,Decision Tree,0.0541,0.06,0.1189
+Pima Diabetes,0.3,SVM (RBF),0.038,0.0405,0.0866
+Pima Diabetes,0.3,SVMTree,0.0463,0.0503,0.1002
+Pima Diabetes,0.3,SVMTree (no filter),0.0629,0.0639,0.1268
+Pima Diabetes,0.3,Tree + NB filter,0.0441,0.0465,0.0907
+Wine,0.0,Decision Tree,0.0571,0.0582,0.0854
+Wine,0.0,SVM (RBF),0.0195,0.0203,0.0284
+Wine,0.0,SVMTree,0.0472,0.0476,0.0673
+Wine,0.0,SVMTree (no filter),0.0295,0.0292,0.0448
+Wine,0.0,Tree + NB filter,0.0618,0.0618,0.0939
+Wine,0.1,Decision Tree,0.0597,0.0624,0.0901
+Wine,0.1,SVM (RBF),0.0208,0.0204,0.0306
+Wine,0.1,SVMTree,0.0322,0.0322,0.0477
+Wine,0.1,SVMTree (no filter),0.0662,0.0661,0.0985
+Wine,0.1,Tree + NB filter,0.0544,0.0551,0.081
+Wine,0.2,Decision Tree,0.0514,0.0617,0.072
+Wine,0.2,SVM (RBF),0.0229,0.0218,0.0337
+Wine,0.2,SVMTree,0.0312,0.0295,0.046
+Wine,0.2,SVMTree (no filter),0.0623,0.062,0.0882
+Wine,0.2,Tree + NB filter,0.0462,0.0443,0.07
+Wine,0.3,Decision Tree,0.0711,0.0704,0.0985
+Wine,0.3,SVM (RBF),0.0598,0.0613,0.0848
+Wine,0.3,SVMTree,0.0711,0.0714,0.0997
+Wine,0.3,SVMTree (no filter),0.062,0.0674,0.0796
+Wine,0.3,Tree + NB filter,0.0581,0.0592,0.0779

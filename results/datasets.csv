@@ -1,0 +1,6 @@
+Dataset,Samples,Features,Classes,Majority class %,Smallest class,Null cells
+Pima Diabetes,768,8,2,65.1,268,652
+Breast Cancer,569,30,2,62.7,212,0
+Wine,178,13,3,39.9,48,0
+Glass,214,9,6,35.5,9,0
+Iris,150,4,3,33.3,50,0
